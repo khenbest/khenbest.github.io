@@ -1,12 +1,10 @@
-::-webkit-scrollbar{
+::-webkit-scrollbar {
   display: none;
 }
-  .skill-logo{
-max-height: 75px;
-max-width: 75px;
-
-  }
-  h2{
-    margin-top:  -10vh;
-  }
-  
+.skill-logo {
+  max-height: 90px;
+  max-width: 90px;
+}
+h2 {
+  margin-top: -10vh;
+}
