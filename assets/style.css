@@ -2,8 +2,9 @@
   display: none;
 }
 .skill-logo {
-  max-height: 100px;
-  max-width: 100px;
+  height: 100px;
+  width: 100px;
+  color: white;
 }
 /* h2 {
   margin-top: -10vh;
